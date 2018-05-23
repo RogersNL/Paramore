@@ -3,6 +3,7 @@
   background-color: yellow;
   width: 25%;
   font-family:fantasy;
+  border: 2px solid black;
 }
 h1 {
   text-align: center;
@@ -16,14 +17,20 @@ h2 {
 .about-us {
   width:30%;
   float: left;
+  border: 2px solid gold;
+  margin: 5px;
 }
 .new-album {
   width:30%;
   float: left;
+  border: 2px solid gold;
+  margin: 5px;
 }
 .social-media {
   width:30%;
   float: left;
+  border: 2px solid gold;
+  margin: 5px;
 }
 h3 {
   text-align: center;
